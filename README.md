@@ -1,4 +1,4 @@
-# Java17 Spring Boot 3 CLI Archetype
+# Java17 Spring Boot 3 REST API Archetype
 
 ## Intro
 
